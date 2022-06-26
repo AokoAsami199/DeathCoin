@@ -7,7 +7,7 @@
 - Coin loss on natural deaths (optional)
 - Very customizable
 # Important
-- This plugin Requires CoinAPI by OneBone and BeeAZ (https://img.shields.io/github/downloads/BeeAZ-pm-pl/CoinAPI-4.0.0/)
+- This plugin Requires CoinAPI by OneBone and BeeAZ [![Actions](https://img.shields.io/github/downloads/BeeAZ-pm-pl/CoinAPI-4.0.0/)(https://github.com/BeeAZ-pm-pl/CoinAPI-4.0.0)
 # Config
 ```
 # How much coin will the victims lose when they die? Type Options: "all", "half", "percent", "amount"
