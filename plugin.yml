@@ -1,0 +1,8 @@
+main: AokoAsami199\DeathCoin\DeathCoin
+name: DeathCoin
+version: 1.0.0
+api:
+- 4.0.0
+Author: Electro (Remake by AokoAsami199)
+depend:
+- CoinAPI
