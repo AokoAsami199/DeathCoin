@@ -21,7 +21,6 @@ class DeathCoin extends PluginBase implements Listener{
     {
         $player = $event->getPlayer();
         if(!$player->getLastDamageCause() instanceof EntityDamageByEntityEvent) return;
-        }
         $playerCoin = CoinAPI::getInstance()->myCoin($player);
         $damager = $player->getLastDamageCause()->getDamager();
         if (!$damager instanceof Player)
