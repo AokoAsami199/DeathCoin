@@ -3,6 +3,7 @@
 namespace AokoAsami199\DeathCoin;
 
 use pocketmine\event\entity\EntityDeathEvent;
+use pocketmine\event\player\PlayerDeathEvent;
 use pocketmine\player\Player;
 use pocketmine\plugin\PluginBase;
 use pocketmine\event\Listener;
